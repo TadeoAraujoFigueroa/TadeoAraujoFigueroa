@@ -27,7 +27,7 @@ Right now I'm focused on becoming **Fullstack (React + Node/NestJS)** by buildin
 ## Featured repositories
 - 📌 `eGestalt-psycholgy-management-system` (finished) 
 - 📌 `javascript-deep-dive` (in progress) — fundamentals + exercises
-- 📌 `react-mini-projects` (coming soon)
+- 📌 `react-mini-projects` (in progress) - fetch + events + rendering
 - 📌 `nest-api-practice` (coming soon)
 
 ---
